@@ -6,7 +6,7 @@
    <property name="jdbcDriver" value="com.mysql.jdbc.Driver"></property>
    <property name="url"  value="jdbc:mysql://localhost/jdbcassignment"></property>
    <property name="user" value="root"></property>
-   <property name="password" value="pass@word1"></property>
+   <property name="password" value=""></property>
    </bean>
   
   </beans>
